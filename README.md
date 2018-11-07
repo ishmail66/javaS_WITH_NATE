@@ -29,10 +29,10 @@
 
 ## Operators:
 
-- + addition
+- '+' addition
 - '-' subtraction
-- / division
-- * multiplication
+- '/' division
+- '*' multiplication
 
 - the + operator can be applied to two strings values. This will join two strings together,       o    otherwise called concatenation.
 - in the console we concatinated the following example;
